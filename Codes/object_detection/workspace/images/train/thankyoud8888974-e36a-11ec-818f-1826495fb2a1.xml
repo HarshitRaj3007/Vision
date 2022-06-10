@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>thankyoud8888974-e36a-11ec-818f-1826495fb2a1.jpg</filename>
+	<path>C:\Users\Alok\Desktop\object detection\workspace\images\collectedImages\thankyou\thankyoud8888974-e36a-11ec-818f-1826495fb2a1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThankYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>124</ymin>
+			<xmax>601</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>
